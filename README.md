@@ -1,4 +1,4 @@
-![Summit VR](SummitVR.png)  
+
   
 # SummitVR Launcher
 _Supported on Windows x64_
@@ -15,3 +15,4 @@ Next time you want to run the launcher, look for a shortcut on your **Start Menu
 You can use the launcher to keep up-to-date with the current version of SummitVR, launch SummitVR, and in the future manage your account  
 Also, the launcher will update itself automatically
   
+![Summit VR](SummitVR.png)
