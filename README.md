@@ -1,4 +1,4 @@
-![Summit VR](summitvr.png)  
+![Summit VR](SummitVR.png)  
   
 # SummitVR Launcher
 _Supported on Windows x64_
